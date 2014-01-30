@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+</head>
+<body>
+
+<div class="container">
+<h3>Indu</h3>
+
+<a href="http://google.com/" class="btn btn-default" id="">Google !!!</a>
+
+</div>
+</body>
+</html>

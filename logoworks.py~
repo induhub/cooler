@@ -3,8 +3,10 @@ import sys
 import Image
 import ImageFilter
 import ImageEnhance
+
 img_fil = Image.open("cutest_puppy-wide.jpg")
 img_log = Image.open("logo.png")
+img_log.show()
 print img_fil.format, img_fil.size, img_fil.mode
 enh=ImageEnhance.Contrast(img_fil)
 enh.enhance(1.3).show("30% more contrast")
